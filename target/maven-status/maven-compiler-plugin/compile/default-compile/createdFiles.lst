@@ -1,0 +1,6 @@
+net\berkaygunduz\springbatchbeginnerdemo\config\SpringBatchConfig.class
+net\berkaygunduz\springbatchbeginnerdemo\controller\JobController.class
+net\berkaygunduz\springbatchbeginnerdemo\config\CustomerProcessor.class
+net\berkaygunduz\springbatchbeginnerdemo\entity\Customer.class
+net\berkaygunduz\springbatchbeginnerdemo\repository\CustomerRepository.class
+net\berkaygunduz\springbatchbeginnerdemo\SpringBatchBeginnerDemoApplication.class
